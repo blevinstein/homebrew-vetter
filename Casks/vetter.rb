@@ -1,6 +1,6 @@
 cask "vetter" do
-  version "0.2.3"
-  sha256 "3e3472a0c81d95f35cefb86a013d27d1e1c88ca7b241679d491c2199dcccddc6"
+  version "0.2.4"
+  sha256 "46ae453d6d5a4ab57e3a770a45c91ac68ff895d964ff9059eb7df32e19a634d7"
 
   url "https://github.com/blevinstein/vetter/releases/download/v#{version}/Vetter-#{version}.zip"
   name "Vetter"
